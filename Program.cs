@@ -12,6 +12,8 @@ namespace Lab1
         {
             Assignments a1 = new Assignments();
             a1.Sum();
+            a1.FinancialApp();
+            a1.AverageScore();
         }
     }
 }
