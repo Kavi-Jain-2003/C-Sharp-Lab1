@@ -11,6 +11,7 @@ namespace Lab1
         internal void Sum()
         {
             Console.WriteLine(10+20);
+            Console.WriteLine("helloji");
         }
     }
 }
